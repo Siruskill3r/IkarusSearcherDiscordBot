@@ -1,0 +1,12 @@
+
+	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Âµ² ‘2J$7abc10de-9830-40a1-8115-2db65be62ac6
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(­¸˜¡üÿÿÿÿ8Îµ² ‘2J$8626731b-dc86-4377-a5e1-5cbce4c2a2d9
+s
+java:S1874."+Remove this use of "URL"; it is deprecated.(¬èõåüÿÿÿÿ8Òµ² ‘2J$a6de3552-d2f4-43cb-a3dc-d66e9a6a0b6f
+l	java:S106>"+Replace this use of System.out by a logger.(‘Õk8Õµ² ‘2J$e868758e-184a-4f39-9a33-7708bf78a271
+ƒ	java:S125E"<This block of commented-out lines of code should be removed.(üûÿÿÿÿÿÿ8Ûµ² ‘2J$62f13e83-a5c5-491b-a814-82ac08ffa67f
+p
+java:S1659T"(Declare "endStation" on a separate line.(î£›ˆşÿÿÿÿ8İµ² ‘2J$6557dada-7efc-4eb6-9246-53b2980ec81f
+ƒ	java:S125\"<This block of commented-out lines of code should be removed.(ı¤Ùøÿÿÿÿ8ãµ² ‘2J$ec6a90b7-aa15-4b6a-b005-140620e97b75
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8æµ² ‘2J$23acaef1-628b-49be-9467-4fbb438566e8
