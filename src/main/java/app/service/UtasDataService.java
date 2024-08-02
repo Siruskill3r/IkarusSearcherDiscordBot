@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 public class UtasDataService implements Runnable {
 
-    private static final int REFRESH_PERIOD_MINUTES = 1;
+    private static final int REFRESH_PERIOD_MINUTES = 3;
 
     private final Set<VehicleData> result = new HashSet<>();
 

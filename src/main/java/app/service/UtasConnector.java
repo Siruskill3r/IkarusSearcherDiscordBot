@@ -90,7 +90,7 @@ public class UtasConnector implements Runnable {
                 endStation = destinations[1];
             }
        //     System.out.println(Thread.currentThread().getName() + ": UtasConnector finished");
-            return new VehicleData(vehicle.getLicensePlate(),vehicle.getModel(),trip.getTripShortName(),startStation,endStation);
+            return new VehicleData(vehicle.getLicensePlate(),vehicle.getModel(),trip.getTripShortName(),startStation,endStation,trip.getId());
         }).toList();
     }
 

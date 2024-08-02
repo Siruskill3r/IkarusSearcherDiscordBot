@@ -1,5 +1,7 @@
 package app.model.app;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
 public class VehicleData {
@@ -8,13 +10,15 @@ public class VehicleData {
     private final String tripNumber;
     private final String fromStation;
     private final String toStation;
+    private final String tripId;
 
-    public VehicleData(String numberPlate, String model, String tripNumber, String fromStation, String toStation) {
+    public VehicleData(String numberPlate, String model, String tripNumber, String fromStation, String toStation,String tripId) {
         this.numberPlate = numberPlate;
         this.model = model;
         this.tripNumber = tripNumber;
         this.fromStation = fromStation;
         this.toStation = toStation;
+        this.tripId = tripId;
     }
 
     @Override
@@ -32,7 +36,7 @@ public class VehicleData {
 
     @Override
     public String toString() {
-        return numberPlate + "(" + model + ")@" + tripNumber + ":" + fromStation + "->" + toStation;
+        return numberPlate + "(" + model + ")@" + tripNumber + ":" + fromStation + "->" + toStation + '\n' + "[To site](https://utas.hu/trip/" + tripId + "/" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyyMMdd")) +  ")";
     }
 
     public String getNumberPlate() {
