@@ -1,21 +1,21 @@
 
 ‡
-java:S2259B"DA "NullPointerException" could be thrown; "client" is nullable here.(ÎÀÜ§8éµ¼ ‘2J$01770c57-7228-4cc0-88ad-0138bba0b90a
-›	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(Ã‘Ã8ø²² ‘2J$c1c531a6-8142-4b43-8643-bd97433ad458
+java:S2259B"DA "NullPointerException" could be thrown; "client" is nullable here.(ÎÀÜ§8éµ¼ ‘2J$ffce3064-12ca-4939-b79b-263a9545bf3e
+›	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(Ã‘Ã8ø²² ‘2J$0187f14e-b6a9-46a8-b838-b643ce49e9da
 n
-java:S1481-",Remove this unused "ignored" local variable.(­ÀÈc8‡³² ‘2J$f72c21aa-ef46-4551-9b13-b9af25481fd6
+java:S1481-",Remove this unused "ignored" local variable.(­ÀÈc8‡³² ‘2J$c67209bf-a3d4-4815-b832-86ed00ce96f9
 •
-java:S37768"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(œû¿Ø8“³² ‘2J$c75d5e63-bedd-4678-935b-19aaa34e99d5
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(œû¿Ø8“³² ‘2J$3f1cd5e9-80d9-44b8-bea1-fe0645f5e18d
 ¯
-java:S11308"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8…¶¼ ‘2J$1d5034b5-b136-4430-ad30-744669aac7e0
-m	java:S106E"+Replace this use of System.out by a logger.(òĞê‰8œ³² ‘2J$24d129bc-749b-4d7e-973f-097295ecbf60
+java:S11308"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8…¶¼ ‘2J$3ee1a18d-fc98-45b5-aac3-8148d3b20094
+m	java:S106E"+Replace this use of System.out by a logger.(òĞê‰8œ³² ‘2J$f8bee10d-f1aa-4dcc-914f-327c1352bd6a
 {
-java:S1874E"8Remove this use of "getDiscriminator"; it is deprecated.(òĞê‰8‹¶¼ ‘2J$d3254b22-aa52-43de-b6ab-5f497f60f3bb
-r	java:S106F"+Replace this use of System.out by a logger.(ø„ÚÜùÿÿÿÿ8Ÿ³² ‘2J$ae4bb1da-5b7f-429c-a464-f8bfb652b2fa
-j	java:S108H")Either remove or fill this block of code.(™Æ›	8 ³² ‘2J$f2c1db6b-9e04-4792-b544-5d24e94a6899
-r	java:S106J"+Replace this use of System.out by a logger.(“ø°¦ıÿÿÿÿ8¢³² ‘2J$71996d3e-c47c-42d3-b3cf-70795b77c5d7
-m	java:S106R"+Replace this use of System.out by a logger.(‚¼µµ8¥³² ‘2J$21bff58b-8b29-4678-af2e-1463ed4504d0
-r	java:S106U"+Replace this use of System.out by a logger.(û¨Íğùÿÿÿÿ8¦³² ‘2J$ea328de8-9e9f-4f42-b71c-f0e814e3f4be
-m	java:S106["+Replace this use of System.out by a logger.(şØ¸Å8Ï³² ‘2J$fac6b538-63ab-4905-a599-6fdaa5d69758
+java:S1874E"8Remove this use of "getDiscriminator"; it is deprecated.(òĞê‰8‹¶¼ ‘2J$3a3fc173-d8eb-42c1-be98-883909a0fc3a
+r	java:S106F"+Replace this use of System.out by a logger.(ø„ÚÜùÿÿÿÿ8Ÿ³² ‘2J$de1b81f4-e705-44b7-ad13-1ce10b1e61b6
+j	java:S108H")Either remove or fill this block of code.(™Æ›	8 ³² ‘2J$6e66823d-2295-41aa-95d9-27a163d71c18
+r	java:S106J"+Replace this use of System.out by a logger.(“ø°¦ıÿÿÿÿ8¢³² ‘2J$0718647d-c9bc-4843-b211-601f7dab7db2
+m	java:S106R"+Replace this use of System.out by a logger.(‚¼µµ8¥³² ‘2J$38b1d16b-0d42-4404-b551-7cf2067b93f6
+r	java:S106U"+Replace this use of System.out by a logger.(û¨Íğùÿÿÿÿ8¦³² ‘2J$b765b25c-39c7-4321-9e85-c11a118897b9
+m	java:S106["+Replace this use of System.out by a logger.(şØ¸Å8Ï³² ‘2J$823e1985-0f88-4885-9ef7-842ecbabf432
 ¡
-java:S2142t"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ø³² ‘2J$95cdc945-2037-409e-9d46-a9bf00489ef3
+java:S2142t"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ø³² ‘2J$ad2fd1ed-70b7-42e0-9cfe-f3c2fa9f272f

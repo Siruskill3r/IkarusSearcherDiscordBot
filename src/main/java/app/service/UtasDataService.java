@@ -54,6 +54,7 @@ public class UtasDataService implements Runnable {
                     t.join();
                 }
                 synchronized (result) {
+                    result.clear();
                     for(UtasConnector worker : workers) {
                         result.addAll(worker.getResult());
                     }
